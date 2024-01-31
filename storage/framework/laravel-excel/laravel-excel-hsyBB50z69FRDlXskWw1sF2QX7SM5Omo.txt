@@ -1,0 +1,1 @@
+"3","2","fwwfwfwf","public/images/detail_pengajuan/s6O5FQ00KlrlaxeBrb0DfwLewKCKqTUayTJB2e6M.png","2","1000000","2000000","https://stackoverflow.com/questions/47507279/dompdf-table-fixed-column-width-and-break-long-text","2022-06-01T11:31:12.000000Z","2022-06-02T05:59:03.000000Z"

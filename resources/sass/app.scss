@@ -1,0 +1,22 @@
+@import "~admin-lte/dist/css/adminlte.css";
+@import "~@fortawesome/fontawesome-free/css/all.css";
+@import "~jquery-ui/themes/base/all.css";
+@import "~icheck-bootstrap/icheck-bootstrap.css";
+
+// datatables
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.css";
+@import "~datatables.net-buttons-bs4/css/buttons.bootstrap4.css";
+@import "~datatables.net-responsive-bs4/css/responsive.bootstrap4.css";
+@import "~datatables.net-searchpanes-bs4/css/searchPanes.bootstrap4.css";
+@import "~datatables.net-select-bs4/css/select.bootstrap4.css";
+
+@import "~select2/dist/css/select2.css";
+@import "~@ttskch/select2-bootstrap4-theme/dist/select2-bootstrap4.css";
+
+.swal2-popup.swal2-toast {
+    background-color: #007bff !important;
+}
+
+.swal2-popup.swal2-toast .swal2-title {
+    color: whitesmoke !important;
+}
