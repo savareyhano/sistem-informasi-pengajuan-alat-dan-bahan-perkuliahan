@@ -1,6 +1,6 @@
 # Sistem Informasi Pengajuan Alat Dan Bahan Perkuliahan
 
-This project is an enhancement of [the procurement application](https://github.com/MrCarefree/SIPABP) developed by MrCarefree, initially used by Politeknik TEDC Bandung, a private vocational college in Cimahi, Indonesia. The application was redeveloped to meet user needs, utilizing the waterfall method for structured development. Black Box Testing and User Acceptance Testing were performed, confirming successful feature functionality and high user acceptance rate of 94.25%. This is my final project to obtain a bachelor's degree in applied engineering.
+This project is an enhancement of [the procurement application](https://github.com/MrCarefree/SIPABP) developed by MrCarefree, initially used by Politeknik TEDC Bandung, a private vocational college in Cimahi, Indonesia. The application was redeveloped to meet user needs, utilizing the waterfall method for structured development. Black Box Testing and User Acceptance Testing were performed, confirming successful feature functionality and high user acceptance rate of 94.25%. Sistem Informasi Pengajuan Alat Dan Bahan Perkuliahan is part of my [undergraduate thesis](https://ejournal.poltektedc.ac.id/index.php/jiee/article/view/815).
 
 ## Table of Contents
 
