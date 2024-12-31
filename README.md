@@ -54,6 +54,3 @@ To be added.
 
 ![Export PDF](https://user-images.githubusercontent.com/32730327/273455193-78a9919d-08e4-45a7-a970-1210b1fd54a6.png)
 
-## License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/savareyhano/Sistem-Informasi-Pengajuan-Alat-Dan-Bahan-Perkuliahan/blob/main/LICENSE).
